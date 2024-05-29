@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: su-ahj94e-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/su-ahj94e-go-gitops
